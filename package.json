@@ -54,12 +54,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/deepexi/generator-deepexi-spring-cloud.git"
+		"url": "https://github.com/qinyuanlong-tx/common-template"
 	},
 	"bugs": {
-		"url": "https://github.com/deepexi/generator-deepexi-spring-cloud/issues"
+		"url": "https://github.com/qinyuanlong-tx/common-template/issues"
 	},
-	"homepage": "https://github.com/deepexi/generator-deepexi-spring-cloud#readme",
+	"homepage": "https://github.com/qinyuanlong-tx/common-template#readme",
 	"author": "taccisum",
 	"license": "ISC"
 }
