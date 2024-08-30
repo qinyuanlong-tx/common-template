@@ -2,8 +2,6 @@
 
 此脚手架生成器基于[Yeoman](https://yeoman.io/)构建。
 
-[CHANGELOG](./CHANGELOG.md)
-
 ## How To
 
 ### Getting Started
