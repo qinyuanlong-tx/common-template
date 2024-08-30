@@ -25,7 +25,7 @@ $ npm install -g common-template
 ```bash
 $ mkdir {your_project_name}
 $ cd {your_project_name}
-$ yo deepexi-spring-cloud
+$ yo common-template-n2j
 ```
 
 或者使用命令行模式创建
@@ -33,13 +33,13 @@ $ yo deepexi-spring-cloud
 ```bash
 $ mkdir {your_project_name}
 $ cd {your_project_name}
-$ yo deepexi-spring-cloud -c
+$ yo common-template-n2j -c
 ```
 
 更多帮助信息可以通过以下命令查看
 
 ```bash
-$ yo common-template --help
+$ yo common-template-n2j --help
 ```
 
 #### 4. 自行修改配置
