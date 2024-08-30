@@ -6,7 +6,7 @@
 mkdir -p test_proj/
 cd test_proj
 
-yo deepexi-spring-cloud -c --db=mongo
+yo common-template -c --db=mongo
 
 npm i
 npm test
