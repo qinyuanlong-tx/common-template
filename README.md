@@ -1,15 +1,5 @@
 # DeepEXI Spring Cloud Scaffold Generator
 
-[![NPM version][npm-image]][npm-url]
-[![npm download][download-image]][download-url]
-[![Build Status](https://www.travis-ci.org/deepexi/generator-deepexi-spring-cloud.svg?branch=master)](https://www.travis-ci.org/deepexi/generator-deepexi-spring-cloud)
-[![codecov](https://codecov.io/gh/deepexi/generator-deepexi-spring-cloud/branch/master/graph/badge.svg)](https://codecov.io/gh/deepexi/generator-deepexi-spring-cloud)
-
-[npm-image]: https://img.shields.io/npm/v/generator-deepexi-spring-cloud.svg
-[npm-url]: https://www.npmjs.com/package/generator-deepexi-spring-cloud
-[download-image]: https://img.shields.io/npm/dm/generator-deepexi-spring-cloud.svg
-[download-url]: https://www.npmjs.com/package/generator-deepexi-spring-cloud
-
 此脚手架生成器基于[Yeoman](https://yeoman.io/)构建。
 
 [CHANGELOG](./CHANGELOG.md)
@@ -24,10 +14,10 @@
 $ npm install -g yo
 ```
 
-#### 2. 安装generator-deepexi-spring-cloud
+#### 2. 安装common-template
 
 ```bash
-$ npm install -g generator-deepexi-spring-cloud
+$ npm install -g common-template
 ```
 
 #### 3. 创建你的应用
@@ -51,7 +41,7 @@ $ yo deepexi-spring-cloud -c
 更多帮助信息可以通过以下命令查看
 
 ```bash
-$ yo deepexi-spring-cloud --help
+$ yo common-template --help
 ```
 
 #### 4. 自行修改配置
